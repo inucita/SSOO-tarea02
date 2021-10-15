@@ -7,5 +7,5 @@ Primero se utiliza **curl https://api.warframe.market/v1/items** para acceder y 
  
 Se decidio eliminar parte de la informacion para realizar el filtrado debido a que era mas sencillo que filtrarlo directamente, por lo tanto se usa **"del"** y asi se elimina **thumbs** y **url_name** para solo dejar **id** **y** **item_name**.
  
-Una vez resuelto el filtrado de datos, ya se puede redireccionar hacia un archivo -json con **>**, guardandolo en el archivo llamado **items.json** que mencionamos anteriormente.
+Una vez resuelto el filtrado de datos, ya se puede redireccionar hacia un archivo .json con **>**, guardandolo en el archivo llamado **items.json** que mencionamos anteriormente.
 Ya finalizado el proceso se muestra el mensaje **JSON CREADO CON EXITO** (utilizando **echo**) mostrando que si se logro realizar el ejercicio.
