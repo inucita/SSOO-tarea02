@@ -1,5 +1,5 @@
 # SSOO-tarea02
-##### Nombre del autor: Brenda Araya
+##### Nombre del autor: Brenda Araya Bermudez
 ##### Correo institucional: brenda.arayab@alumnos.uv.cl
 Para obtener los datos de los items del videojuego "**Warframe**", se debe de usar **curl**, **redireccionamiento (>)** y **JQ**.
  
